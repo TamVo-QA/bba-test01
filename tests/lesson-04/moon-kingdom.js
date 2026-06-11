@@ -51,6 +51,6 @@ const players = [
     { name: "Luigi", score: 900 },
     { name: "Peach", score: 850 },
     { name: "Yoshi", score: 800 },
-    { name: "tamvo", score: 500 }
+    { name: "Tamvo", score: 500 }
 ];
 printLeaderboard(players); 
